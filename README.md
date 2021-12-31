@@ -1,2 +1,0 @@
-# JrProjectQuiz
-BeymenTestProject
